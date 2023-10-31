@@ -209,3 +209,5 @@ async def account_login(bot: Client, m: Message):
 
 
 bot.run()
+print("Successfully deployed!")
+print("live long DSR!")
